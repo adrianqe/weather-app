@@ -23,8 +23,11 @@ This is a full-stack weather application built as a technical assessment. The ap
 ## 📂 Project Structure
 
 weather-app/
+
 ├── client/ # Frontend (React)
+
 ├── server/ # Backend (Express)
+
 └── README.md # Project overview
 
 
